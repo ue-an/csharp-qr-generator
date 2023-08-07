@@ -1,0 +1,22 @@
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\QRGenerator.exe.config
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\QRGenerator.exe
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\QRGenerator.pdb
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\bin\Debug\QRCoder.dll
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.csprojResolveAssemblyReference.cache
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.Form1.resources
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.Properties.Resources.resources
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.csproj.GenerateResource.Cache
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.exe
+c:\users\ian aguinaldo\documents\visual studio 2015\Projects\QRGenerator\QRGenerator\obj\Debug\QRGenerator.pdb
+E:\_School-related\QRGenerator\QRGenerator\bin\Debug\QRGenerator.exe.config
+E:\_School-related\QRGenerator\QRGenerator\bin\Debug\QRGenerator.exe
+E:\_School-related\QRGenerator\QRGenerator\bin\Debug\QRGenerator.pdb
+E:\_School-related\QRGenerator\QRGenerator\bin\Debug\QRCoder.dll
+E:\_School-related\QRGenerator\QRGenerator\obj\Debug\QRGenerator.csproj.AssemblyReference.cache
+E:\_School-related\QRGenerator\QRGenerator\obj\Debug\QRGenerator.Form1.resources
+E:\_School-related\QRGenerator\QRGenerator\obj\Debug\QRGenerator.Properties.Resources.resources
+E:\_School-related\QRGenerator\QRGenerator\obj\Debug\QRGenerator.csproj.GenerateResource.cache
+E:\_School-related\QRGenerator\QRGenerator\obj\Debug\QRGenerator.csproj.CoreCompileInputs.cache
+E:\_School-related\QRGenerator\QRGenerator\obj\Debug\QRGenerator.csproj.CopyComplete
+E:\_School-related\QRGenerator\QRGenerator\obj\Debug\QRGenerator.exe
+E:\_School-related\QRGenerator\QRGenerator\obj\Debug\QRGenerator.pdb
